@@ -14,7 +14,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         self.view.backgroundColor = UIColor.red;
         
-        
+        NSLog("100");
     }
 
     override func didReceiveMemoryWarning() {
